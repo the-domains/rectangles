@@ -1,7 +1,7 @@
 name: rectangles
 favicon: null
-layout_spectrum: 0.6866937489248812
-typography_spectrum: 0.928864779882133
+layout_spectrum: 0.25723
+typography_spectrum: 0.67534
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#b4b4b4'
     - '#969696'
   brandStrength: 1
-  lightness: 0.8856625033076853
-  saturation: 0.581777579151094
-  rhythmicContrast: 0.9639680271502584
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
