@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[rectangles]]></title>
         <description><![CDATA[rectangles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rectangles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 08:06:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 15:27:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rectangles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Thailand</p>]]></description>
+            <link>https://thegrid.ai/rectangles/de61a9bf-453c-4288-a651-a2ffd00f1ce6/index.html</link>
+            <guid isPermaLink="false">de61a9bf-453c-4288-a651-a2ffd00f1ce6</guid>
+            <pubDate>Tue, 29 Dec 2015 15:27:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title of a Rectangle]]></title>
-            <description><![CDATA[<article><h1>Title of a Rectangle</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be5bdb34-c15c-4e2d-982d-264aadca51da.jpg"></article>]]></description>
-            <link>undefinedtitle-of-a-rectangle/index.html</link>
+            <description><![CDATA[<article><h1>Title of a Rectangle</h1><p>Oh nice it showed up. Hmmm now what.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8688925fd0800bc9b6cc7b67efd184c48c1dc2f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rectangles/title-of-a-rectangle/index.html</link>
             <guid isPermaLink="false">258c86b0-eebc-4192-b58b-3516f6a01b69</guid>
             <pubDate>Mon, 21 Dec 2015 08:06:16 GMT</pubDate>
         </item>
